@@ -1,0 +1,27 @@
+{
+  "name": "canvas-orbit-camera-types",
+  "version": "0.0.0",
+  "description": "TS types for orbit-camera, canvas-orbit-camera",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukehesluke/canvas-orbit-camera-types.git"
+  },
+  "keywords": [
+    "orbit-camera",
+    "canvas-orbit-camera"
+  ],
+  "author": "Luke Winship <luke.winship@gmail.com> (https://github.com/lukehesluke)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukehesluke/canvas-orbit-camera-types/issues"
+  },
+  "homepage": "https://github.com/lukehesluke/canvas-orbit-camera-types#readme",
+  "devDependencies": {
+    "gl-matrix": "^3.3.0",
+    "typescript": "^3.9.2"
+  }
+}
